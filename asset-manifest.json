@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-Notes-MUI/static/css/main.ab716a64.css",
+    "main.js": "/My-Notes-MUI/static/js/main.12c035ad.js",
+    "index.html": "/My-Notes-MUI/index.html",
+    "main.ab716a64.css.map": "/My-Notes-MUI/static/css/main.ab716a64.css.map",
+    "main.12c035ad.js.map": "/My-Notes-MUI/static/js/main.12c035ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab716a64.css",
+    "static/js/main.12c035ad.js"
+  ]
+}
